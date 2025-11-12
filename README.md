@@ -16,8 +16,9 @@ I’ve come to love the journey, not because it’s easy, but because it’s mea
 
 
 # 💫 About Me:
+<section align=center>
 I'm Gomolemo, a Software developer<br>I’m passionate about turning ideas into meaningful, working products,<br> the kind that makes people’s lives just a little easier (or cooler 😄).<br><br>My path into tech hasn’t been linear. I’ve faced confusion, imposter <br>syndrome, and moments of “am I cut out for this?”<br>But each bug fixed, each project built, and each “aha” moment <br>has made me stronger, not just as a developer, but as a person <br>who builds with purpose, learns with curiosity, and grows with <br>persistence.<br><br>I’ve learned to love the journey, not because it’s easy, but because <br>it’s worth it.
-
+</section>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gmotlhamme) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:motlhammegomolemo@gmail.com) 
@@ -34,6 +35,5 @@ I'm Gomolemo, a Software developer<br>I’m passionate about turning ideas into 
 
 </section>
 ---
-[![](https://visitcount.itsvg.in/api?id=gmotlhamme&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
